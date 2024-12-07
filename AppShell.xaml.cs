@@ -1,4 +1,5 @@
-﻿namespace IgnatDariaLab7
+﻿
+namespace IgnatDariaLab7
 {
     public partial class AppShell : Shell
     {
